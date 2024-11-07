@@ -1,5 +1,5 @@
 package day17;
-class Airplane
+class Airplane  
 {
 	void takeOff()
 	{

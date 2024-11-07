@@ -3,8 +3,8 @@ class parent
 {
 	public void fun()
 	{
-		System.out.println("Parent class method");	
-		}
+		System.out.println("Parent class method");		
+	}
 }
 class child1 extends parent
 {
